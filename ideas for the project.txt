@@ -1,0 +1,15 @@
+ideas for the project:
+    - Random song lyric based on number input or letter matching title 
+        [could help me develop a good way to search through a 
+            dictionary based on a regular expresion]
+    - Quiz (what's your real OTP or what's superheo alter ego) 
+        [fun but kinda of simple ifelseelseif logic problem]
+    - Calculator [interesting way to overload methods....maybe]
+    + Reason why to keep going ( random number to random quote ) 
+    [this option let's me explore how to make rest calls in python and
+    then parse the answer]
+
+Brain storm project now that I've picked.
+    -   terminal application that gives the user inspirational quotes on request
+    -   the user can select a catagory of quote to get if not a default is select
+    -   the format of presentation would  like so... '{Quote} by {Author}'
